@@ -15,3 +15,5 @@ DATE - Date - Veiw the date
 
 
 Made with python programming laungauge. 
+
+Newest version (And only version) 1.2.1
